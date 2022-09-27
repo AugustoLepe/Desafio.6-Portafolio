@@ -1,0 +1,19 @@
+body {
+    font-family: "Raleway", sans-serif;
+}
+
+#Desafios .image-top {
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+  }
+
+@media (max-width: 768px) {
+    #Contacto form label {
+    font-weight: 400;
+    }
+    .navbar-brand{
+    width: 100px;
+    }
+}
